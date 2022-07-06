@@ -1,4 +1,4 @@
-***Httpful***
+# ***Httpful***
 
 [Github](https://github.com/nategood/httpful)
 
@@ -16,7 +16,7 @@ Features
 
 ----
 
-***Requests***
+# ***Requests***
 
 [Github](https://github.com/rmccue/Requests)
 
@@ -37,7 +37,7 @@ Features
 
 ----
 
-***Unirest PHP***
+#  ***Unirest PHP***
 
 [Github](https://github.com/Kong/unirest-php)
 
@@ -55,7 +55,7 @@ Features
 
 ----
 
-***Unirest PHP***
+# ***Unirest PHP***
 
 [Github](https://github.com/voku/httpful/)
 

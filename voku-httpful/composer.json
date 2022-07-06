@@ -1,0 +1,9 @@
+{
+    "name": "ariel/voku-httpful",
+    "description": "HTTP Client",
+    "type": "composer-plugin",
+    "require": {
+        "voku/httpful": "^2.4"
+    },
+    "license": "GNU"
+}

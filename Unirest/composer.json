@@ -1,0 +1,9 @@
+{
+    "name": "ariel/unirest",
+    "description": "Client HTTP",
+    "type": "composer-plugin",
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    },
+    "license": "GNU"
+}

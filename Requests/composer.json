@@ -1,0 +1,8 @@
+{
+    "name": "ariel/requests",
+    "description": "HTTP Client",
+    "license": "GNU",
+    "require": {
+        "rmccue/requests": "^2.0.3"
+    }
+}

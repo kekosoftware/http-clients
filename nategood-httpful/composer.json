@@ -1,0 +1,8 @@
+{
+    "name": "ariel/httpful",
+    "description": "HTTP Client",
+    "license": "GNU",
+    "require": {
+        "nategood/httpful": "*"
+    }
+}
